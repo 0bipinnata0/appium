@@ -1,0 +1,1 @@
+npm run wdio -w @ui-automation/wdio

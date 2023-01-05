@@ -1,0 +1,1 @@
+concurrently "npm run dev -w @ui-automation/utils" "npm run dev -w @ui-automation/driver" 

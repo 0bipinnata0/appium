@@ -1,0 +1,22 @@
+{
+  "name": "@ui-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "scripty",
+    "test": "scripty"
+  },
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "scripty": "^2.1.1",
+    "typescript": "^4.9.4"
+  }
+}
